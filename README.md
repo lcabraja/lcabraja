@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ## College Projects
 A list of the ~terrible~ amazing code I've written to <!-- somehow --> pass classes <!-- surprisingly well even --> <br>
-The further back you go, the worse it gets| Semester | Repository                                                             | Project            | Course                                                |
+The further back you go, the worse it gets
+
+| Semester | Repository                                                             | Project            | Course                                                |
 |----------|------------------------------------------------------------------------|--------------------|-------------------------------------------------------|
 | 6th      | [JWP](https://github.com/lcabraja/jwp)                                 |                    | Java web programming                                  |
 | 6th      | [IIS](https://github.com/lcabraja/iis)                                 |                    | Interoperability of information systems               |

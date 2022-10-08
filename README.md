@@ -23,6 +23,7 @@ The further back you go, the worse it gets
 
 | Semester | Repository                                                             | Type    | Course                                                | Grade (1-5)    |
 |----------|------------------------------------------------------------------------|---------|-------------------------------------------------------| -------------- |
+| 6th      | [Final Work](https://github.com/lcabraja/final-thesis)                 | Project | Final Thesis                                          | 4 (4.31)     |
 | 6th      | [JWP](https://github.com/lcabraja/JWP-Projekt-LukaCabraja)             | Project | Java web programming                                  | 5 (95 Points)  |
 | 6th      | [JWP](https://github.com/lcabraja/jwp)                                 | Classes | Java web programming                                  | 5 (95 Points)  |
 | 6th      | [IIS](https://github.com/lcabraja/IIS-Projekt-LukaCabraja)             | Project | Interoperability of information systems               | 5 (98 Points)  |

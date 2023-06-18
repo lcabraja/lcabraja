@@ -2,7 +2,8 @@
 I am currently a software engineering student at Algebra University College in Zagreb
 
 <!--
-**lcabraja/lcabraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lcabraja/lcabraja** is a ✨ 
+special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,6 +21,17 @@ Here are some ideas to get you started:
 ## College Projects
 A list of the ~terrible~ amazing code I've written to <!-- somehow --> pass classes <!-- surprisingly well even --> <br>
 The further back you go, the worse it gets
+
+### Graduate Study
+
+| Semester | Repository                                                             | Type    | Course                                                | Grade (1-5)    |
+|----------|------------------------------------------------------------------------|---------|-------------------------------------------------------| -------------- |
+| 2nd      | [SC](https://github.com/lcabraja/SC-Project-LukaCabraja)               | Project | Secure Coding                                         | ? (?? Points)  |
+| 2nd      | [APP](https://github.com/lcabraja/APP-Project-LukaCabraja)             | Project | Advanced Programming Paradigms                        | 5 (100 Points) |
+| 2nd      | [ITD](https://github.com/lcabraja/ITD-Project-LukaCabraja)             | Project | Intro to DevOps                                       | ? (?? Points)  |
+| 1st      | [AADBT](https://github.com/lcabraja/AADBT-Project-LukaCabraja)         | Project | Advanced Application Development based on Templates   | 5 (100 Points) |   
+
+### Undergraduate Study
 
 | Semester | Repository                                                             | Type    | Course                                                | Grade (1-5)    |
 |----------|------------------------------------------------------------------------|---------|-------------------------------------------------------| -------------- |

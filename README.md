@@ -24,12 +24,12 @@ The further back you go, the worse it gets
 
 ### Graduate Study
 
-| Semester | Repository                                                             | Type    | Course                                                | Grade (1-5)    |
-|----------|------------------------------------------------------------------------|---------|-------------------------------------------------------| -------------- |
-| 2nd      | [SC](https://github.com/lcabraja/SC-Project-LukaCabraja)               | Project | Secure Coding                                         | ? (?? Points)  |
-| 2nd      | [APP](https://github.com/lcabraja/APP-Project-LukaCabraja)             | Project | Advanced Programming Paradigms                        | 5 (100 Points) |
-| 2nd      | [ITD](https://github.com/lcabraja/ITD-Project-LukaCabraja)             | Project | Intro to DevOps                                       | ? (?? Points)  |
-| 1st      | [AADBT](https://github.com/lcabraja/AADBT-Project-LukaCabraja)         | Project | Advanced Application Development based on Templates   | 5 (100 Points) |   
+| Semester | Repository                                                             | Type    | Course                                                | Grade (1-5)     |
+|----------|------------------------------------------------------------------------|---------|-------------------------------------------------------| --------------- |
+| 2nd      | [SC](https://github.com/lcabraja/SC-Project-LukaCabraja)               | Project | Secure Coding                                         | ? (?? Points)   |
+| 2nd      | [APP](https://github.com/lcabraja/APP-Project-LukaCabraja)             | Project | Advanced Programming Paradigms                        | 5 (100 Points)  |
+| 2nd      | [ITD](https://github.com/lcabraja/ITD-Project-LukaCabraja)             | Project | Intro to DevOps                                       | 5 (93.5 Points) |
+| 1st      | [AADBT](https://github.com/lcabraja/AADBT-Project-LukaCabraja)         | Project | Advanced Application Development based on Templates   | 5 (100 Points)  |   
 
 ### Undergraduate Study
 
